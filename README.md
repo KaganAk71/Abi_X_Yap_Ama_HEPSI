@@ -18,7 +18,7 @@ tüm olası kombinasyonlarıyla oluşturulmuş **eksiksiz bir cümle veri setidi
 - **Dosya:** `Abi_X_Yap_TUMHEPSI.db`
 - **Format:** SQLite
 - **Toplam kayıt:** **1.809.996**
-- **Cümle yapısı:**
+- **Cümle yapısı:** Abi {kelime 1} kullanarak {kelime 2} yap.
 
 ---
 
