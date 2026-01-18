@@ -43,3 +43,25 @@ SELECT text FROM sentences ORDER BY RANDOM() LIMIT 10;
 
 -- Belirli kelime içerenler
 SELECT text FROM sentences WHERE text LIKE '%kalem%';
+```
+
+---
+
+## 🤝 Katkıda Bulunma (Pull Request)
+
+Bu proje basit bir dataset projesidir ancak **iyileştirme ve düzenlemelere açıktır**.  
+Katkı yapmak isteyenler için adımlar:
+
+1. Bu repoyu **fork**’la
+2. Kendi fork’unda yeni bir branch oluştur:
+   ```bash
+   git checkout -b my-feature
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/KaganAk71/Abi_X_Yap_Ama_HEPSI?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/forks/KaganAk71/Abi_X_Yap_Ama_HEPSI?style=flat-square" alt="Forks">
+  <img src="https://img.shields.io/github/watchers/KaganAk71/Abi_X_Yap_Ama_HEPSI?style=flat-square" alt="Watchers">
+  <img src="https://img.shields.io/github/repo-size/KaganAk71/Abi_X_Yap_Ama_HEPSI?style=flat-square" alt="Repo Size">
+</p>
